@@ -1,0 +1,16 @@
+paquete  --> directorio que puede contener varios modulos.
+             para que un directorio se considere paquete requiere un archivo __init__.py
+
+             ese archivo __init__.py --> contiene codigo, variables comunes a todos los módulos.
+
+
+namespace es el nombre completo de un objeto 
+import paquete.suma
+
+uso paquete.suma.suma
+
+
+-----
+
+
+

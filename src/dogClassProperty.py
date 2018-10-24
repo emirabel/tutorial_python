@@ -16,7 +16,8 @@ class Dog():  # Definición de clase
 	
 ''' Instancia de clase perro Doqui '''
 perro1 = Dog()
-perro1.name = 'Doqui'
+perro1.name = ''
+print perro1.name
 
 ''' Instancia de clase perro Firulaes '''
 perro2 = Dog()

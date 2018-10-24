@@ -1,0 +1,1 @@
+print 'Se cargo el archivo __init__.py del paquete libreria'
