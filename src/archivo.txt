@@ -3,3 +3,4 @@ numero_control|nombre|apellido_paterno|apellido_materno|promedio|sexo
 96170738|Emily Sofia|manjarrez|Vega|100|F
 97170511|Harley|Quinn|.|10|F
 00008232|Naruto|Quinn|.|9|M
+07171260|Ramon Alberto Isijara Medina|100|M
